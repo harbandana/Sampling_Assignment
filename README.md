@@ -6,20 +6,20 @@ The dataset comprises 772 entries categorized into two classes: class 0 and clas
 ## Sample Size Computation
 The sample size (n) is computed using the formula: n=Z².p.(1-p)/E², where n represents the sample size, p denotes the standard deviation, Z is the z-score, and E is the margin of error.
 
-## Utilized Sampling Techniques
+## Sampling Techniques
 
-Simple Random Sampling
-Systematic Random Sampling
-Cluster Sampling
-Bootstrap Sampling
+- Simple Random Sampling
+- Systematic Random Sampling
+- Cluster Sampling
+- Bootstrap Sampling
 
-## Models for Assessment
-Logistic Regression
-Support Vector Classifier
-XGBoost Classifier
-Random Forest
-Gaussian Naive Bayes
-Accuracy Scores
+## Models Used for Evaluation
+
+- Logistic Regression
+- Support Vector Classifier (SVC)
+- XGBoost Classifier
+- Random Forest
+- Gaussian Naive Bayes
 
 ## Accuracy Scores
 
